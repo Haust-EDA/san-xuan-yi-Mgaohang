@@ -15,7 +15,7 @@ int main()
 }
 //倒三角
 #include"stdio.h"
-int main
+int main()
 {
    int i,j;
   for(i=9;i>=1;i--)
